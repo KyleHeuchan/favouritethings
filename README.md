@@ -5,5 +5,5 @@ This project is hosted on Heroku and is managed on  Github
 ## Tools:
 - SASS
 - Node.js
-- https://www.heroku.com/ 
 - Adobe Design Tools like Photoshop
+- https://www.heroku.com/ 
