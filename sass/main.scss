@@ -1,0 +1,14 @@
+@import '_vars';
+
+
+@import 'modules/_header';
+@import 'modules/_content';
+@import 'modules/_footer';
+
+
+
+a { 
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
